@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "StarGen.data.unityweb",
+"asmCodeUrl": "StarGen.asm.code.unityweb",
+"asmMemoryUrl": "StarGen.asm.memory.unityweb",
+"asmFrameworkUrl": "StarGen.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
